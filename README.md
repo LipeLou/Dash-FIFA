@@ -29,7 +29,7 @@ O projeto é composto por três páginas principais:
 
 ## 🚀 Como Rodar o Projeto
 
-O projeto está rodando na nuvem. Basta acessar o link: [ "dash-fifa23.streamlit.app" ]( "dash-fifa23.streamlit.app" )
+O projeto está rodando na nuvem. Basta acessar o link: [dash-fifa23.streamlit.app]( dash-fifa23.streamlit.app)
 
 ## 📂 Estrutura do Projeto
 
